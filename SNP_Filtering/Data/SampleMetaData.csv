@@ -1,0 +1,457 @@
+id,pop,lat,lon,date,year,sex,species,spp_code,WAM_ID,IBRA_SubRegion
+DEC01797,Port Hedland 5,-22.31,119.99,30/4/2001,2001,M,Ningaui timealeyi,Nt,WAM_M48882,Chichester
+DEC01800,Port Hedland,-21.4483,118.9233,18/11/2001,2001,M,Ningaui timealeyi,Nt,WAM_M49522,Chichester
+DEC01803,Newman 3,-22.9397,118.8656,2/6/2004,2004,M,Ningaui timealeyi,Nt,WAM_M55292,Hamersley
+DEC01804,Tom Price,-22.75,117.7667,6/11/1996,1996,M,Ningaui timealeyi,Nt,WAM_M47330,Hamersley
+DEC01806,Newman 2,-23.3227,119.4489,21/6/1997,1997,NA,Ningaui timealeyi,Nt,WAM_M47667,Hamersley
+DEC01807,Millstream,-21.6683,117.4369,7/7/1997,1997,M,Ningaui timealeyi,Nt,WAM_M47726,Chichester
+DEC01808,Newman,-22.9166,118.9,19/6/2005,2005,F,Ningaui timealeyi,Nt,WAM_M47492b,Hamersley
+DEC01809,Pannawonica,-21.6833,116.3833,16/5/1994,1994,M,Ningaui timealeyi,Nt,WAM_M44942,Chichester
+DEC01811,Cane River 2,-22.1686,115.5722,7/5/1999,1999,M,Ningaui timealeyi,Nt,WAM_M48583,Hamersley
+DEC01812,Cane River,-22.2694,115.6422,4/5/1999,1999,M,Ningaui timealeyi,Nt,WAM_M48531,Hamersley
+DEC01814,Mount Leal,-21.8747,117.3258,22/9/1999,1999,M,Ningaui timealeyi,Nt,WAM_M51360,Hamersley
+DEC01815,Cape Preston 2,-21.0438,116.1872,18/4/2000,2000,M,Ningaui timealeyi,Nt,WAM_M52360,Roebourne
+DEC01816,Cape Preston,-21.0658,116.1492,18/4/2000,2000,M,Ningaui timealeyi,Nt,WAM_M52361,Roebourne
+DEC01822,Newman,-22.9344,118.895,2/6/2004,2004,M,Ningaui timealeyi,Nt,WAM_M55286,Hamersley
+DEC01823,Newman,-22.9402,118.9031,3/6/2004,2004,M,Ningaui timealeyi,Nt,WAM_M55288,Hamersley
+DEC01824,Newman 3,-22.9383,118.8628,4/6/2004,2004,M,Ningaui timealeyi,Nt,WAM_M55290,Hamersley
+DEC02090,Port Hedland 10,-21.01,118.7,3/5/2001,2001,F,Ningaui timealeyi,Nt,WAM_M48897,Chichester
+DEC02091,Port Hedland 9,-21.16,118.81,3/5/2001,2001,M,Ningaui timealeyi,Nt,WAM_M48902,Chichester
+DEC02092,Port Hedland 8,-20.7,118.64,4/5/2001,2001,F,Ningaui timealeyi,Nt,WAM_M48915,Chichester
+DEC02094,Port Hedland 7,-21.5836,118.8975,24/6/2001,2001,F,Ningaui timealeyi,Nt,WAM_M48945,Chichester
+DEC02095,Port Hedland 6,-21.8216,118.8689,24/6/2001,2001,F,Ningaui timealeyi,Nt,WAM_M48950,Chichester
+DEC02096,Port Hedland 4,-22.2263,118.9756,24/6/2001,2001,M,Ningaui timealeyi,Nt,WAM_M48951,Fortescue
+DEC02097,Meentheena 3,-21.2163,120.3406,25/5/2000,2000,M,Ningaui timealeyi,Nt,WAM_M51613,Chichester
+DEC02098,Meentheena 2,-21.2888,120.4719,27/5/2000,2000,M,Ningaui timealeyi,Nt,WAM_M51640,Chichester
+DEC02099,Mount Minnie,-21.8747,115.1564,24/6/2000,2000,M,Ningaui timealeyi,Nt,WAM_M51676,Cape Range
+DEC02101,Meentheena,-21.2852,120.4153,28/9/2000,2000,F,Ningaui timealeyi,Nt,WAM_M51722,Chichester
+DEC02102,Meentheena 2,-21.2813,120.4806,29/9/2000,2000,F,Ningaui timealeyi,Nt,WAM_M51732,Chichester
+DEC02104,Woodstock 3,-21.6116,118.9556,7/5/1988,1988,F,Ningaui timealeyi,Nt,WAM_M28212,Chichester
+DEC02105,Woodstock 2,-21.6675,119.0408,8/5/1988,1988,F,Ningaui timealeyi,Nt,WAM_M28213,Chichester
+DEC02106,Woodstock,-21.6097,119.0214,25/9/1988,1988,M,Ningaui timealeyi,Nt,WAM_M28214,Chichester
+DEC02107,Woodstock 3,-21.6094,118.9744,17/9/1989,1989,F,Ningaui timealeyi,Nt,WAM_M29242,Chichester
+DEC02109,Woodstock,-21.6069,119.0397,18/9/1989,1989,M,Ningaui timealeyi,Nt,WAM_M29375,Chichester
+DEC02110,Port Hedland 3,-20.78,118.64,3/5/2001,2001,M,Ningaui timealeyi,Nt,WAM_M48895,Chichester
+DEC02111,Port Hedland 2,-21.06,118.75,3/5/2001,2001,M,Ningaui timealeyi,Nt,WAM_M48896,Chichester
+DEC02112,Redmont Camp,-21.94404,118.962925,1/5/2003,2003,M,Ningaui timealeyi,Nt,WAM_M48971,Chichester
+DEC02113,Weeli Wolli Springs 2,-22.968955,119.162278,24/4/2003,2003,F,Ningaui timealeyi,Nt,WAM_M48998,Hamersley
+DEC02114,Weeli Wolli Springs,-22.878694,119.240611,25/4/2003,2003,M,Ningaui timealeyi,Nt,WAM_M49002,Hamersley
+DEC02115,Weeli Wolli Springs,-22.8777,119.24,28/4/2003,2003,NA,Ningaui timealeyi,Nt,WAM_M49003,Hamersley
+DEC02116,Onslow,-21.741,115.113,25/9/2002,2002,M,Ningaui timealeyi,Nt,WAM_M49036,Cape Range
+DEC02117,Onslow,-21.7438,115.1208,10/9/2003,2003,M,Ningaui timealeyi,Nt,WAM_M53965,Cape Range
+DEC02118,Munjina Roadhouse 2,-21.8025,118.9108,26/3/2004,2004,NA,Ningaui timealeyi,Nt,WAM_M55070,Chichester
+DEC02119,Munjina Roadhouse,-22.395,118.9989,29/3/2004,2004,M,Ningaui timealeyi,Nt,WAM_M55072,Fortescue
+DEC02120,West Angeles,-23.1905,118.8261,9/5/2004,2004,M,Ningaui timealeyi,Nt,WAM_M55101,Hamersley
+DEC02121,Pannawonica 6,-21.6516,115.8367,16/3/2005,2005,F,Ningaui timealeyi,Nt,WAM_M56304,Roebourne
+DEC02122,Pannawonica 5,-21.8188,116.2997,16/3/2005,2005,M,Ningaui timealeyi,Nt,WAM_M56308,Hamersley
+DEC02123,Pannawonica 4,-21.7594,116.2275,16/3/2005,2005,F,Ningaui timealeyi,Nt,WAM_M56312,Hamersley
+DEC02127,Woodie Woodie,-21.7141,121.2339,9/10/2006,2006,M,Ningaui timealeyi,Nt,WAM_M62342,Chichester
+DEC02129,Woodstock,-21.6111,119.0397,7/5/1988,1988,F,Ningaui timealeyi,Nt,WAM_M28093,Chichester
+DEC02130,Woodstock 2,-21.6708,119.0417,28/9/1988,1988,M,Ningaui timealeyi,Nt,WAM_M28624,Chichester
+DEC02135,Woodstock 3,-21.6097,118.9622,18/9/1989,1989,M,Ningaui timealeyi,Nt,WAM_M29400,Chichester
+DEC02138,Mount Windell,-22.6022,118.5208,29/7/1991,1991,F,Ningaui timealeyi,Nt,WAM_M36751,Hamersley
+DEC02139,Jemmawarruda Ck,-21.8166,116.2333,NA,NA,NA,Ningaui timealeyi,Nt,WAM_M37016,Hamersley
+DEC02141,Barlee Range Nat Res 3,-23.3891,115.8867,12/6/1994,1994,M,Ningaui timealeyi,Nt,WAM_M41808,Ashburton
+DEC02142,Barlee Range Nat Res 2,-23.0797,115.7903,15/6/1994,1994,F,Ningaui timealeyi,Nt,WAM_M41828,Ashburton
+DEC02143,Barlee Range Nat Res,-23.1058,115.9978,20/6/1994,1994,M,Ningaui timealeyi,Nt,WAM_M41845,Ashburton
+DEC02144,Barlee Range Nat Res,-23.1016,116.0078,21/6/1994,1994,M,Ningaui timealeyi,Nt,WAM_M41853,Ashburton
+DEC02146,Pannawonica 3,-21.6583,116.2722,29/9/1993,1993,NA,Ningaui timealeyi,Nt,WAM_M41867,Hamersley
+DEC02147,Hope Downs,-22.9666,119.1625,28/4/1994,1994,M,Ningaui timealeyi,Nt,WAM_M43182,Hamersley
+DEC02148,Yarrie,-20.6163,120.2761,9/6/1998,1998,M,Ningaui timealeyi,Nt,WAM_M44061,Chichester
+DEC02149,Brockman Mine 2,-22.3105,117.3167,17/11/1998,1998,M,Ningaui timealeyi,Nt,WAM_M52408,Hamersley
+DEC02150,Brockman Mine,-22.4188,117.4,18/11/1998,1998,M,Ningaui timealeyi,Nt,WAM_M52414,Hamersley
+DEC02152,Brockman Mine,-22.4197,117.4167,17/11/1998,1998,M,Ningaui timealeyi,Nt,WAM_M52407,Hamersley
+DEC02153,Brockman Mine,-22.4113,117.4333,18/11/1998,1998,M,Ningaui timealeyi,Nt,WAM_M52413,Hamersley
+DEC02154,Pannawonica 2,-21.6272,116.4458,7/10/2005,2005,NA,Ningaui timealeyi,Nt,WAM_M56640,Chichester
+DEC02155,Mount Elvire 5,-21.7108,116.7658,7/10/2005,2005,NA,Ningaui timealeyi,Nt,WAM_M56665,Hamersley
+DEC02156,Dresser 2,-21.1561,119.3558,11/10/2005,2005,NA,Ningaui timealeyi,Nt,WAM_M56670,Chichester
+DEC02157,Mount Elvire 4,-21.6728,116.7253,1/10/2005,2005,NA,Ningaui timealeyi,Nt,WAM_M56790,Chichester
+DEC02158,Peedamulla 3,-21.9131,115.7172,27/9/2005,2005,NA,Ningaui timealeyi,Nt,WAM_M56809,Hamersley
+DEC02159,Peedamulla 3,-21.9181,115.7233,26/9/2005,2005,M,Ningaui timealeyi,Nt,WAM_M56817,Hamersley
+DEC02160,Coongan River 2,-20.8956,119.6025,11/5/2006,2006,NA,Ningaui timealeyi,Nt,WAM_M56919,Chichester
+DEC02161,Coongan River 2,-20.8983,119.5906,11/5/2006,2006,M,Ningaui timealeyi,Nt,WAM_M56921,Chichester
+DEC02162,Coongan River 2,-20.8983,119.5906,12/5/2006,2006,NA,Ningaui timealeyi,Nt,WAM_M56940,Chichester
+DEC02163,Roeburne 2,-20.808,117.0725,30/9/2004,2004,M,Ningaui timealeyi,Nt,WAM_M57235,Chichester
+DEC02164,Mount Florance 3,-21.7141,117.7755,10/10/2004,2004,M,Ningaui timealeyi,Nt,WAM_M57274,Chichester
+DEC02165,Bonney Downs 2,-22.1178,119.8772,19/10/2004,2004,M,Ningaui timealeyi,Nt,WAM_M57315,Chichester
+DEC02166,Bonney Downs,-22.0853,119.7035,21/10/2004,2004,M,Ningaui timealeyi,Nt,WAM_M57325,Chichester
+DEC02167,Marble Bar 2,-21.3108,119.6042,2/5/2006,2006,F,Ningaui timealeyi,Nt,WAM_M57691,Chichester
+DEC02168,Dresser,-21.2181,119.4019,2/5/2006,2006,F,Ningaui timealeyi,Nt,WAM_M57693,Chichester
+DEC02169,Dresser,-21.2367,119.4083,2/5/2006,2006,F,Ningaui timealeyi,Nt,WAM_M57697,Chichester
+DEC02171,Mount De Courcey,-22.7402,116.4611,21/5/2005,2005,M,Ningaui timealeyi,Nt,WAM_M57726,Hamersley
+DEC02172,Mount Edith,-22.5714,116.1483,21/5/2005,2005,M,Ningaui timealeyi,Nt,WAM_M57727,Hamersley
+DEC02174,Rhodes Ridge 2,-23.146,119.2658,14/5/2005,2005,M,Ningaui timealeyi,Nt,WAM_M57737,Hamersley
+DEC02175,Rhodes Ridge,-23.1032,119.0389,11/5/2005,2005,F,Ningaui timealeyi,Nt,WAM_M57741,Hamersley
+DEC02176,Rhodes Ridge,-23.1032,119.0389,8/5/2005,2005,M,Ningaui timealeyi,Nt,WAM_M57747,Hamersley
+DEC02178,Mount Minnie 2,-22.1697,115.5608,2/5/2005,2005,F,Ningaui timealeyi,Nt,WAM_M57754,Hamersley
+DEC02179,Marda Pool,-21.0699,116.2069,22/5/2005,2005,M,Ningaui timealeyi,Nt,WAM_M57873,Roebourne
+DEC02180,Fortescue River,-22.0592,117.6935,19/5/2005,2005,M,Ningaui timealeyi,Nt,WAM_M57938,Hamersley
+DEC02181,Mount Bruce 4,-22.7161,118.2633,24/9/2005,2005,M,Ningaui timealeyi,Nt,WAM_M60509,Hamersley
+DEC02182,Mount Bruce 3,-22.6094,118.2992,25/9/2005,2005,M,Ningaui timealeyi,Nt,WAM_M60513,Hamersley
+DEC02183,Mount Bruce 3,-22.6214,118.3147,26/9/2005,2005,M,Ningaui timealeyi,Nt,WAM_M60520,Hamersley
+DEC02184,Mount Bruce 4,-22.7161,118.2633,28/9/2005,2005,F,Ningaui timealeyi,Nt,WAM_M60526,Hamersley
+DEC02185,Peedamulla 2,-21.8417,115.5825,11/5/2006,2006,M,Ningaui timealeyi,Nt,WAM_M60575,Roebourne
+DEC02188,Coongan River,-20.9231,119.6103,25/9/2005,2005,M,Ningaui timealeyi,Nt,WAM_M61034,Chichester
+DEC02189,Mount Bruce 4,-22.7225,118.2683,27/5/2006,2006,F,Ningaui timealeyi,Nt,WAM_M61684,Hamersley
+DEC02191,Mount Bruce 2,-22.6219,118.3511,27/5/2006,2006,F,Ningaui timealeyi,Nt,WAM_M61692,Hamersley
+DEC02192,Wheelarra Hill 4,-23.4986,120.2911,21/5/2006,2006,M,Ningaui timealeyi,Nt,WAM_M61723,Augustus
+DEC02193,Wheelarra Hill 3,-23.4711,120.215,21/5/2006,2006,M,Ningaui timealeyi,Nt,WAM_M61731,Augustus
+DEC02195,Wheelarra Hill 2,-23.28,120.1761,20/5/2006,2006,F,Ningaui timealeyi,Nt,WAM_M61736,Fortescue
+DEC02196,Balfour Downs 3,-22.5442,120.7992,16/5/2006,2006,M,Ningaui timealeyi,Nt,WAM_M61761,Chichester
+DEC02197,Balfour Downs 2,-22.6033,120.7833,15/5/2006,2006,M,Ningaui timealeyi,Nt,WAM_M61766,Chichester
+DEC02198,Balfour Downs 3,-22.5442,120.7992,14/5/2006,2006,F,Ningaui timealeyi,Nt,WAM_M61769,Chichester
+DEC02199,Balfour Downs,-22.6111,120.7289,11/5/2006,2006,F,Ningaui timealeyi,Nt,WAM_M61782,Chichester
+DEC02202,Mount Elvire 3,-21.6828,116.7522,5/10/2005,2005,NA,Ningaui timealeyi,Nt,WAM_M56634,Chichester
+DEC02203,Mount Elvire 2,-21.8736,116.5025,7/10/2005,2005,NA,Ningaui timealeyi,Nt,WAM_M56639,Hamersley
+DEC02204,Mount Elvire 5,-21.7083,116.7658,7/10/2005,2005,NA,Ningaui timealeyi,Nt,WAM_M56642,Hamersley
+DEC02205,Marble Bar,-21.4264,119.5531,10/10/2005,2005,M,Ningaui timealeyi,Nt,WAM_M56667,Chichester
+DEC02206,Marble Bar,-21.4264,119.5531,11/10/2005,2005,NA,Ningaui timealeyi,Nt,WAM_M56672,Chichester
+DEC02210,Mount Elvire,-21.8397,116.6825,1/10/2005,2005,NA,Ningaui timealeyi,Nt,WAM_M56780,Hamersley
+DEC02211,Warramboo Creek 2,-21.7333,115.8081,30/9/2005,2005,NA,Ningaui timealeyi,Nt,WAM_M56783,Hamersley
+DEC02212,Warramboo Creek 2,-21.7319,115.8072,30/9/2005,2005,NA,Ningaui timealeyi,Nt,WAM_M56784,Hamersley
+DEC02213,Warramboo Creek,-21.6892,115.8431,29/9/2005,2005,M,Ningaui timealeyi,Nt,WAM_M56792,Hamersley
+DEC02214,Warramboo Creek,-21.6892,115.8431,28/9/2005,2005,NA,Ningaui timealeyi,Nt,WAM_M56801,Hamersley
+DEC02215,Peedamulla,-21.9481,115.83,28/9/2005,2005,NA,Ningaui timealeyi,Nt,WAM_M56802,Hamersley
+DEC02217,Peedamulla 3,-21.9131,115.7172,26/9/2005,2005,F,Ningaui timealeyi,Nt,WAM_M56816,Hamersley
+DEC02219,Peedamulla 3,-21.8983,115.7036,24/9/2005,2005,M,Ningaui timealeyi,Nt,WAM_M56836,Hamersley
+DEC02220,Lake Poongkaliyarra 2,-20.9399,117.0348,30/9/2004,2004,M,Ningaui timealeyi,Nt,WAM_M57232,Chichester
+DEC02221,Roeburne,-20.7364,117.0989,30/9/2004,2004,M,Ningaui timealeyi,Nt,WAM_M57236,Chichester
+DEC02222,Lake Poongkaliyarra,-20.9346,117.1151,1/10/2004,2004,M,Ningaui timealeyi,Nt,WAM_M57245,Chichester
+DEC02224,Mount Florance 3,-21.7141,117.7755,9/10/2004,2004,F,Ningaui timealeyi,Nt,WAM_M57266,Chichester
+DEC02225,Mount Florance 2,-21.8562,117.9798,9/10/2004,2004,M,Ningaui timealeyi,Nt,WAM_M57270,Fortescue
+DEC02226,Mount Florance,-21.795,117.857,10/10/2004,2004,M,Ningaui timealeyi,Nt,WAM_M57273,Chichester
+DEC02231,Coolawanyah,-21.8822,117.7945,13/10/2004,2004,F,Ningaui timealeyi,Nt,WAM_M57290,Fortescue
+DEC02232,Coolawanyah,-21.8822,117.7945,14/10/2004,2004,M,Ningaui timealeyi,Nt,WAM_M57295,Fortescue
+DEC02233,Bonney Downs 2,-22.1178,119.8772,17/10/2004,2004,F,Ningaui timealeyi,Nt,WAM_M57305,Chichester
+DEC02236,Mile,-22.6907,119.7747,18/10/2004,2004,M,Ningaui timealeyi,Nt,WAM_M57310,Fortescue
+DEC02240,Cowra Line,-22.3614,119.0068,1/5/2005,2005,M,Ningaui timealeyi,Nt,WAM_M57919,Fortescue
+DEC02241,Mount Bruce 3,-22.6214,118.3147,25/9/2005,2005,F,Ningaui timealeyi,Nt,WAM_M60514,Hamersley
+DEC02242,Mount Bruce,-22.5833,118.2903,26/9/2005,2005,M,Ningaui timealeyi,Nt,WAM_M60518,Hamersley
+DEC02243,Wheelarra Hill,-23.3644,120.3453,2/10/2005,2005,M,Ningaui timealeyi,Nt,WAM_M60539,Fortescue
+DEC02244,Goldsworthy,-20.3908,119.9086,26/9/2005,2005,M,Ningaui timealeyi,Nt,WAM_M61044,McLarty
+DEC02245,Warrawagine 2,-20.9169,120.6242,2/10/2005,2005,F,Ningaui timealeyi,Nt,WAM_M61064,Chichester
+DEC02246,Warrawagine,-20.7392,120.8939,7/10/2005,2005,NA,Ningaui timealeyi,Nt,WAM_M61096,Chichester
+DEC02247,Wodgina 8,-21.4008,118.7092,22/9/2005,2005,M,Ningaui timealeyi,Nt,WAM_M61835,Chichester
+DEC02333,Peedamulla 3,-21.9131,115.7172,24/9/2005,2005,M,Ningaui timealeyi,Nt,WAM_M56833,Hamersley
+DEC02334,Warramboo Creek,-21.6892,115.8431,24/9/2005,2005,F,Ningaui timealeyi,Nt,WAM_M56834,Hamersley
+DEC02336,Wickham,-20.6884,117.0069,1/10/2004,2004,F,Ningaui timealeyi,Nt,WAM_M57243,Chichester
+DEC02337,Karratha,-20.768,116.842,2/10/2004,2004,M,Ningaui timealeyi,Nt,WAM_M57252,Roebourne
+DEC02339,Wheelarra Hill 5,-23.4583,120.1558,5/10/2005,2005,M,Ningaui timealeyi,Nt,WAM_M60545,Augustus
+DEC02340,Wheelarra Hill 4,-23.4986,120.2911,5/10/2005,2005,M,Ningaui timealeyi,Nt,WAM_M60546,Augustus
+DEC02341,Balfour Downs 2,-22.6033,120.7833,10/10/2005,2005,F,Ningaui timealeyi,Nt,WAM_M60549,Chichester
+DEC02342,Balfour Downs 4,-22.5164,120.6594,15/10/2005,2005,F,Ningaui timealeyi,Nt,WAM_M60559,Chichester
+DEC02345,Dresser,-21.2181,119.4019,15/10/2005,2005,NA,Ningaui timealeyi,Nt,WAM_M56684,Chichester
+DEC02347,Mount Rica,-21.9522,116.4883,2/10/2005,2005,NA,Ningaui timealeyi,Nt,WAM_M56773,Hamersley
+DEC02360,Tom Price 10,-22.6989,117.8172,28/9/2005,2005,M,Ningaui timealeyi,Nt,WAM_M60532,Hamersley
+DEC02361,Wheelarra Hill 2,-23.28,120.1761,4/10/2005,2005,M,Ningaui timealeyi,Nt,WAM_M60543,Fortescue
+DEC02362,Coongan River 3,-20.9353,119.8581,25/9/2005,2005,NA,Ningaui timealeyi,Nt,WAM_M61041,Chichester
+DEC02363,Coongan River 3,-20.9353,119.8581,25/9/2005,2005,M,Ningaui timealeyi,Nt,WAM_M61042,Chichester
+DEC02365,Yarrie 3,-20.7236,120.2022,2/10/2005,2005,M,Ningaui timealeyi,Nt,WAM_M61063,Chichester
+DEC02366,Yarrie 2,-20.7669,120.3767,2/10/2005,2005,M,Ningaui timealeyi,Nt,WAM_M61065,Chichester
+DEC02367,Tom Price 9,-22.8092,117.4775,4/10/2005,2005,M,Ningaui timealeyi,Nt,WAM_M61794,Hamersley
+DEC02368,Tom Price 8,-22.3778,117.4667,4/10/2005,2005,M,Ningaui timealeyi,Nt,WAM_M61795,Hamersley
+DEC02370,Tom Price 7,-22.3214,117.4794,2/10/2005,2005,M,Ningaui timealeyi,Nt,WAM_M61800,Hamersley
+DEC02371,Tom Price 6,-22.72,117.5106,2/10/2005,2005,M,Ningaui timealeyi,Nt,WAM_M61801,Hamersley
+DEC02373,Tom Price 5,-22.6658,117.6128,1/10/2005,2005,M,Ningaui timealeyi,Nt,WAM_M61803,Hamersley
+DEC02374,Tom Price 9,-22.7975,117.4944,1/10/2005,2005,M,Ningaui timealeyi,Nt,WAM_M61806,Hamersley
+DEC02375,Tom Price 4,-22.295,117.4728,1/10/2005,2005,M,Ningaui timealeyi,Nt,WAM_M61807,Hamersley
+DEC02377,Tom Price 7,-22.3214,117.4794,30/9/2005,2005,F,Ningaui timealeyi,Nt,WAM_M61809,Hamersley
+DEC02378,Tom Price 9,-22.8092,117.4775,30/9/2005,2005,NA,Ningaui timealeyi,Nt,WAM_M61813,Hamersley
+DEC02379,Wodgina 7,-21.0717,118.6797,26/9/2005,2005,M,Ningaui timealeyi,Nt,WAM_M61820,Chichester
+DEC02380,Wodgina 6,-21.2797,118.6989,25/9/2005,2005,M,Ningaui timealeyi,Nt,WAM_M61823,Chichester
+DEC02381,Wodgina 5,-21.0628,118.9111,23/9/2005,2005,M,Ningaui timealeyi,Nt,WAM_M61831,Chichester
+DEC02383,Wodgina 4,-21.0953,118.8864,22/9/2005,2005,M,Ningaui timealeyi,Nt,WAM_M61837,Chichester
+DEC02385,Wodgina 3,-21.1281,118.6894,22/9/2005,2005,M,Ningaui timealeyi,Nt,WAM_M61841,Chichester
+DEC02386,Wodgina 3,-21.1281,118.6894,22/9/2005,2005,F,Ningaui timealeyi,Nt,WAM_M61842,Chichester
+DEC02390,Paraburdoo 5,-23.3397,117.8011,1/6/2006,2006,M,Ningaui timealeyi,Nt,WAM_M64793,Hamersley
+DEC02392,Marble Bar 3,-21.2878,119.6756,10/10/2005,2005,NA,Ningaui timealeyi,Nt,WAM_M56666,Chichester
+DEC02393,Wodgina 4,-21.0953,118.8864,13/5/2006,2006,F,Ningaui timealeyi,Nt,WAM_M64663,Chichester
+DEC02394,Wodgina 2,-21.1147,118.8517,13/5/2006,2006,M,Ningaui timealeyi,Nt,WAM_M64669,Chichester
+DEC02395,Wodgina 4,-21.0953,118.8864,14/5/2006,2006,M,Ningaui timealeyi,Nt,WAM_M64671,Chichester
+DEC02397,Wodgina 5,-21.0628,118.9111,15/5/2006,2006,F,Ningaui timealeyi,Nt,WAM_M64674,Chichester
+DEC02398,Wodgina 6,-21.2797,118.6989,17/5/2006,2006,M,Ningaui timealeyi,Nt,WAM_M64681,Chichester
+DEC02401,Wodgina,-21.0636,118.7608,18/5/2006,2006,NA,Ningaui timealeyi,Nt,WAM_M64687,Chichester
+DEC02402,Tom Price 6,-22.72,117.5106,21/5/2006,2006,F,Ningaui timealeyi,Nt,WAM_M64707,Hamersley
+DEC02403,Tom Price 3,-22.8261,117.3711,21/5/2006,2006,M,Ningaui timealeyi,Nt,WAM_M64709,Hamersley
+DEC02405,Tom Price 6,-22.72,117.5106,22/5/2006,2006,M,Ningaui timealeyi,Nt,WAM_M64720,Hamersley
+DEC02406,Tom Price 5,-22.6658,117.6128,22/5/2006,2006,F,Ningaui timealeyi,Nt,WAM_M64723,Hamersley
+DEC02407,Tom Price 9,-22.7975,117.4944,22/5/2006,2006,F,Ningaui timealeyi,Nt,WAM_M64725,Hamersley
+DEC02409,Tom Price 2,-22.5044,117.6494,26/5/2006,2006,M,Ningaui timealeyi,Nt,WAM_M64755,Hamersley
+DEC02411,Paraburdoo 4,-23.3181,117.8714,28/5/2006,2006,M,Ningaui timealeyi,Nt,WAM_M64759,Hamersley
+DEC02413,Paraburdoo 3,-23.4189,117.8419,29/5/2006,2006,M,Ningaui timealeyi,Nt,WAM_M64768,Hamersley
+DEC02414,Paraburdoo 2,-23.3758,117.9897,29/5/2006,2006,M,Ningaui timealeyi,Nt,WAM_M64771,Hamersley
+DEC02417,Paraburdoo,-23.3353,118.0361,31/5/2006,2006,M,Ningaui timealeyi,Nt,WAM_M64785,Hamersley
+DEC02419,Paraburdoo 4,-23.3181,117.8714,31/5/2006,2006,F,Ningaui timealeyi,Nt,WAM_M64791,Hamersley
+DEC01714,Yandicoogina 2,-22.7366,119.0669,22/3/1996,1996,F,Pseudomys chapmani,Pc,WAM_M47153,Hamersley
+DEC01716,Yandicoogina 2,-22.7377,119.0697,20/3/1996,1996,F,Pseudomys chapmani,Pc,WAM_M47155,Hamersley
+DEC01717,Yandicoogina 2,-22.7316,119.0658,23/3/1996,1996,F,Pseudomys chapmani,Pc,WAM_M47156,Hamersley
+DEC01718,Yandicoogina 2,-22.7319,119.0675,00/03/1996,1996,M,Pseudomys chapmani,Pc,WAM_M47157,Hamersley
+DEC01719,Yandicoogina 2,-22.7319,119.0675,00/03/1996,1996,F,Pseudomys chapmani,Pc,WAM_M47158,Hamersley
+DEC01720,Yandicoogina 2,-22.7377,119.0728,00/03/1996,1996,M,Pseudomys chapmani,Pc,WAM_M47159,Hamersley
+DEC01721,Yandicoogina 2,-22.7394,119.0722,00/03/1996,1996,F,Pseudomys chapmani,Pc,WAM_M47160,Hamersley
+DEC01722,Yandicoogina 2,-22.7377,119.0728,00/03/1996,1996,M,Pseudomys chapmani,Pc,WAM_M47162,Hamersley
+DEC01723,Yandicoogina 2,-22.7352,119.0694,00/03/1996,1996,F,Pseudomys chapmani,Pc,WAM_M47163,Hamersley
+DEC01724,Yandicoogina 2,-22.733,119.0667,00/03/1996,1996,M,Pseudomys chapmani,Pc,WAM_M47164,Hamersley
+DEC01725,Yandicoogina 2,-22.7375,119.0744,00/03/1996,1996,M,Pseudomys chapmani,Pc,WAM_M47165,Hamersley
+DEC01726,Yandicoogina 2,-22.7333,119.0658,00/03/1996,1996,M,Pseudomys chapmani,Pc,WAM_M47166,Hamersley
+DEC01727,Yandicoogina 2,-22.7377,119.0694,00/03/1996,1996,F,Pseudomys chapmani,Pc,WAM_M47167,Hamersley
+DEC01728,Yandicoogina 2,-22.7383,119.0703,00/03/1996,1996,M,Pseudomys chapmani,Pc,WAM_M47168,Hamersley
+DEC01729,Yandicoogina 2,-22.7377,119.0728,00/03/1996,1996,F,Pseudomys chapmani,Pc,WAM_M47169,Hamersley
+DEC01730,Yandicoogina 2,-22.7325,119.0664,00/03/1996,1996,M,Pseudomys chapmani,Pc,WAM_M47170,Hamersley
+DEC01731,Yandicoogina 2,-22.7327,119.0633,00/03/1996,1996,F,Pseudomys chapmani,Pc,WAM_M47172,Hamersley
+DEC01732,Yandicoogina 2,-22.7352,119.0694,00/03/1996,1996,M,Pseudomys chapmani,Pc,WAM_M47173,Hamersley
+DEC01733,Yandicoogina 2,-22.7391,119.0722,00/03/1996,1996,F,Pseudomys chapmani,Pc,WAM_M47174,Hamersley
+DEC01734,Yandicoogina 1,-21.4166,120.1667,00/03/1996,1996,NA,Pseudomys chapmani,Pc,WAM_M47176,Chichester
+DEC01736,West Angelas Hill,-23.1947,118.5964,15/8/1999,1999,NA,Pseudomys chapmani,Pc,WAM_M52165,Hamersley
+DEC01738,Meentheena 2,-21.2827,120.4497,27/5/2000,2000,M,Pseudomys chapmani,Pc,WAM_M51631,Chichester
+DEC01739,Meentheena 2,-21.2288,120.4553,28/5/2000,2000,F,Pseudomys chapmani,Pc,WAM_M51654,Chichester
+DEC01743,Mount Minnie 1,-22.0161,115.5986,29/6/2000,2000,F,Pseudomys chapmani,Pc,WAM_M51698,Hamersley
+DEC01744,Mount Minnie 1,-22.0161,115.5986,29/6/2000,2000,M,Pseudomys chapmani,Pc,WAM_M51699,Hamersley
+DEC01745,Mount Minnie 2,-22.1016,115.3072,29/6/2000,2000,F,Pseudomys chapmani,Pc,WAM_M51701,Cape Range
+DEC01746,Mount Minnie 2,-22.1016,115.3072,29/6/2000,2000,F,Pseudomys chapmani,Pc,WAM_M51702,Cape Range
+DEC01747,Meentheena 2,-21.2852,120.4153,28/9/2000,2000,F,Pseudomys chapmani,Pc,WAM_M51723,Chichester
+DEC01748,Meentheena 2,-21.2852,120.4153,28/9/2000,2000,M,Pseudomys chapmani,Pc,WAM_M51726,Chichester
+DEC01749,Wandanya,-22.2166,121.3,13/10/1992,1992,F,Pseudomys chapmani,Pc,WAM_M40557,Chichester
+DEC01751,East Wandanya,-22.1675,121.4,13/10/1992,1992,F,Pseudomys chapmani,Pc,WAM_M40559,Trainor
+DEC01753,Marandoo 3,-22.5833,118.0167,20/6/1993,1993,F,Pseudomys chapmani,Pc,WAM_M44021,Hamersley
+DEC01756,Mount Windell,-22.63,118.6139,29/7/1991,1991,M,Pseudomys chapmani,Pc,WAM_M36741,Hamersley
+DEC01758,Brockman Mine 1,-22.4113,117.4333,20/11/1998,1998,M,Pseudomys chapmani,Pc,WAM_M52426,Hamersley
+DEC01759,Mount Mckay,-22.4154,119.984,17/10/2004,2004,NA,Pseudomys chapmani,Pc,WAM_M57297,Chichester
+DEC01760,Cowra Line,-22.0688,118.9787,1/5/2005,2005,NA,Pseudomys chapmani,Pc,WAM_M57918,Chichester
+DEC01761,Wheelarra Hill,-23.4583,120.1558,25/5/2006,2006,NA,Pseudomys chapmani,Pc,WAM_M61709,Augustus
+DEC01762,Balfour Downs,-22.5164,120.6594,13/10/2005,2005,NA,Pseudomys chapmani,Pc,WAM_M60556,Chichester
+DEC01763,Meentheena 2,-21.2813,120.4806,26/5/2001,2001,M,Pseudomys chapmani,Pc,WAM_M51794,Chichester
+DEC01764,Cane River,-22.0626,115.6189,12/5/2002,2002,M,Pseudomys chapmani,Pc,WAM_M51833,Hamersley
+DEC01765,Meentheena 1,-21.4169,120.4011,17/9/2001,2001,F,Pseudomys chapmani,Pc,WAM_M51808,Chichester
+DEC01766,Newman 1,-23.3211,119.9378,1/4/2004,2004,F,Pseudomys chapmani,Pc,WAM_M55241,Hamersley
+DEC01768,Paraburdoo,-23.3397,117.8011,12/10/2005,2005,NA,Pseudomys chapmani,Pc,WAM_M61784,Hamersley
+DEC01770,Brockman Mine 1,-22.4113,117.4333,17/11/1998,1998,F,Pseudomys chapmani,Pc,WAM_M52405,Hamersley
+DEC01772,Roy Hill,-22.6027,120.4128,10/7/2004,2004,M,Pseudomys chapmani,Pc,WAM_M56526,Fortescue
+DEC01773,Newman 4,-23.1575,118.7464,12/6/1997,1997,F,Pseudomys chapmani,Pc,WAM_M47640,Hamersley
+DEC01774,Newman 7,-23.4833,120.2,00/01/1996,1996,M,Pseudomys chapmani,Pc,WAM_M47645,Augustus
+DEC01781,Newman 4,-23.1202,118.7981,19/6/1997,1997,M,Pseudomys chapmani,Pc,WAM_M47664,Hamersley
+DEC01782,Newman 6,-23.3666,119.7333,NA,0,NA,Pseudomys chapmani,Pc,WAM_M47663,Hamersley
+DEC01784,Millstream,-21.33,117.1889,7/7/1997,1997,F,Pseudomys chapmani,Pc,WAM_M47716,Chichester
+DEC01785,Newman 2,-23.3666,120.05,NA,NA,F,Pseudomys chapmani,Pc,WAM_M47730,Hamersley
+DEC01786,Newman 2,-23.3666,120.05,NA,NA,NA,Pseudomys chapmani,Pc,WAM_M47731,Hamersley
+DEC01788,West Angeles,-23.1905,118.8261,5/5/2004,2004,M,Pseudomys chapmani,Pc,WAM_M55086,Hamersley
+DEC01789,Newman 2,-23.3666,120.05,NA,NA,NA,Pseudomys chapmani,Pc,WAM_M47732,Hamersley
+DEC01790,Marandoo 2,-22.6166,118.1333,4/5/1992,1992,M,Pseudomys chapmani,Pc,WAM_M36869,Hamersley
+DEC01791,Tom Price 1,-22.75,117.7667,6/11/1996,1996,M,Pseudomys chapmani,Pc,WAM_M47327,Hamersley
+DEC01792,Brockman Mine 2,-22.2919,117.3008,9/5/1999,1999,M,Pseudomys chapmani,Pc,WAM_M47861,Hamersley
+DEC01793,Yandicoogina 1,-21.4166,120.1667,00/03/1996,1996,NA,Pseudomys chapmani,Pc,WAM_M47178,Chichester
+DEC01794,Yandicoogina 2,-22.7327,119.0667,00/03/1996,1996,M,Pseudomys chapmani,Pc,WAM_M47171,Hamersley
+DEC01795,Yandicoogina 2,-22.7375,119.0694,00/03/1996,1996,F,Pseudomys chapmani,Pc,WAM_M47161,Hamersley
+DEC01951,Mount Bruce,-22.6214,118.3147,31/5/2006,2006,NA,Pseudomys chapmani,Pc,WAM_M61627,Hamersley
+DEC01952,Tom Price 3,-22.68,117.8478,30/5/2006,2006,NA,Pseudomys chapmani,Pc,WAM_M61655,Hamersley
+DEC01953,Mount Bruce,-22.5833,118.2903,29/5/2006,2006,M,Pseudomys chapmani,Pc,WAM_M61662,Hamersley
+DEC01954,Mount Bruce,-22.6219,118.3511,28/5/2006,2006,NA,Pseudomys chapmani,Pc,WAM_M61679,Hamersley
+DEC01955,Whim Creek,-20.8699,117.8588,2/10/2004,2004,NA,Pseudomys chapmani,Pc,WAM_M54282,Chichester
+DEC01956,Meentheena 3,-21.3044,121.2004,9/10/2004,2004,NA,Pseudomys chapmani,Pc,WAM_M54301,Chichester
+DEC01957,Meentheena 3,-21.3044,121.2004,10/10/2004,2004,M,Pseudomys chapmani,Pc,WAM_M54307,Chichester
+DEC01958,Meentheena 3,-21.3044,121.2004,11/10/2004,2004,NA,Pseudomys chapmani,Pc,WAM_M54309,Chichester
+DEC01960,Newman 3,-22.9366,118.9094,31/5/2004,2004,F,Pseudomys chapmani,Pc,WAM_M55289,Hamersley
+DEC01961,Mount Marsh,-22.5358,118.9976,16/10/2004,2004,NA,Pseudomys chapmani,Pc,WAM_M57662,Hamersley
+DEC02427,Mount Brockman,-22.4666,117.3,13/4/1994,1994,M,Pseudomys chapmani,Pc,WAM_M43176,Hamersley
+DEC02428,Python Pool,-21.35,117.2333,20/8/1992,1992,F,Pseudomys chapmani,Pc,WAM_M40537,Chichester
+DEC02429,Yarrie Plateau,-20.5833,120.3333,28/1/1993,1993,M,Pseudomys chapmani,Pc,WAM_M40672,Chichester
+DEC02430,Warrawagine,-20.9169,120.6241667,3/10/2005,2005,NA,Pseudomys chapmani,Pc,WAM_M61076,Chichester
+DEC02431,Mount Elvire,-21.6828,116.7522222,25/5/2006,2006,NA,Pseudomys chapmani,Pc,WAM_M60620,Chichester
+DEC02432,Mount Mckay,-22.4154,119.9838889,5/5/2005,2005,NA,Pseudomys chapmani,Pc,WAM_M57923,Chichester
+DEC02433,Bonney Downs,-22.0947,119.7533333,7/5/2005,2005,NA,Pseudomys chapmani,Pc,WAM_M57928,Chichester
+DEC02434,Cape Lambert,-20.6711,117.0811,26/10/1998,1998,F,Pseudomys chapmani,Pc,WAM_M41303,Chichester
+DEC02435,Wodgina,-21.0311,118.9105556,28/9/2005,2005,NA,Pseudomys chapmani,Pc,WAM_M61819,Chichester
+DEC02436,Mount Bruce,-22.5833,118.2902778,24/9/2005,2005,NA,Pseudomys chapmani,Pc,WAM_M60506,Hamersley
+DEC02437,Mount Mckay,-22.4154,119.9838889,22/10/2004,2004,NA,Pseudomys chapmani,Pc,WAM_M57330,Chichester
+DEC02438,Paraburdoo,-23.3397,117.8011111,29/5/2006,2006,NA,Pseudomys chapmani,Pc,WAM_M64767,Hamersley
+DEC02439,Tom Price 4,-22.8092,117.4775,22/5/2006,2006,NA,Pseudomys chapmani,Pc,WAM_M64727,Hamersley
+DEC02440,Paraburdoo,-23.3397,117.8011111,31/5/2006,2006,NA,Pseudomys chapmani,Pc,WAM_M64788,Hamersley
+DEC02441,Peedamulla,-21.9481,115.83,12/5/2006,2006,NA,Pseudomys chapmani,Pc,WAM_M60580,Hamersley
+DEC02442,Coongan River,-20.8983,119.5905556,16/5/2006,2006,NA,Pseudomys chapmani,Pc,WAM_M60004,Chichester
+DEC02443,Coongan River,-20.8983,119.5905556,11/5/2006,2006,NA,Pseudomys chapmani,Pc,WAM_M56920,Chichester
+DEC02444,Peedamulla,-21.9481,115.83,11/5/2006,2006,NA,Pseudomys chapmani,Pc,WAM_M60567,Hamersley
+DEC02446,Tom Price 2,-22.8158,117.7669,00/11/1997,1997,F,Pseudomys chapmani,Pc,WAM_M47845,Hamersley
+DEC02447,Newman 5,-23.3722,120.1433,NA,NA,F,Pseudomys chapmani,Pc,WAM_M41905,Hamersley
+DEC02448,Paraburdoo,-23.3397,117.8011111,29/5/2006,2006,NA,Pseudomys chapmani,Pc,WAM_M64772,Hamersley
+DEC02449,Mount Mckay,-22.4154,119.9838889,17/10/2004,2004,NA,Pseudomys chapmani,Pc,WAM_M57300,Chichester
+DEC02450,Mount Marsh,-22.5358,118.9975,1/5/2005,2005,NA,Pseudomys chapmani,Pc,WAM_M57917,Hamersley
+DEC02451,Mount Mckay,-22.4154,119.9838889,18/10/2004,2004,NA,Pseudomys chapmani,Pc,WAM_M57312,Chichester
+DEC01825,Woodstock 1,-21.7336,118.8356,24/6/2001,2001,F,Pseudomys hermannsburgensis,Ph,WAM_M48952,Chichester
+DEC01827,Mulga Downs 1,-22.2263,118.9756,24/6/2001,2001,F,Pseudomys hermannsburgensis,Ph,WAM_M48959,Fortescue
+DEC01828,Kangan Marble Bar 1,-21.3247,118.8633,25/6/2001,2001,F,Pseudomys hermannsburgensis,Ph,WAM_M48965,Chichester
+DEC01829,Kangan Marble Bar 2,-21.2597,118.815,26/6/2001,2001,NA,Pseudomys hermannsburgensis,Ph,WAM_M48966,Chichester
+DEC01830,Mulga Downs 2,-22.070948,118.978645,1/5/2003,2003,F,Pseudomys hermannsburgensis,Ph,WAM_M48970,Chichester
+DEC01831,Marillana Newman 1,-22.821384,119.287727,25/4/2003,2003,F,Pseudomys hermannsburgensis,Ph,WAM_M48996,Fortescue
+DEC01834,Yandeyarra,-21.940196,118.961895,4/5/2003,2003,F,Pseudomys hermannsburgensis,Ph,WAM_M49016,Chichester
+DEC01835,Peedamulla 1,-21.7308,115.0978,15/9/2003,2003,M,Pseudomys hermannsburgensis,Ph,WAM_M49021,Cape Range
+DEC01836,Marillana Newman 2,-22.8333,119.3833,00/03/2004,2004,M,Pseudomys hermannsburgensis,Ph,WAM_M55078,Hamersley
+DEC01838,West Angelas Mine,-23.2027,118.8333,6/5/2004,2004,M,Pseudomys hermannsburgensis,Ph,WAM_M55096,Hamersley
+DEC01839,West Angelas Mine,-23.1905,118.8261,10/5/2004,2004,M,Pseudomys hermannsburgensis,Ph,WAM_M55106,Hamersley
+DEC01840,Ethel Creek Newman 1,-23.3194,119.9533,1/4/2004,2004,M,Pseudomys hermannsburgensis,Ph,WAM_M55242,Hamersley
+DEC01841,Sth Pannawonica,-21.7808,116.2453,3/5/2005,2005,M,Pseudomys hermannsburgensis,Ph,WAM_M56149,Hamersley
+DEC01843,Nifty Mine,-21.693,121.6581,7/10/2005,2005,M,Pseudomys hermannsburgensis,Ph,WAM_M62137,Mackay
+DEC01845,West Newman 1,-23.3816,119.6253,7/9/2006,2006,F,Pseudomys hermannsburgensis,Ph,WAM_M64919,Hamersley
+DEC01846,West Newman 1,-23.3816,119.6253,11/9/2006,2006,NA,Pseudomys hermannsburgensis,Ph,WAM_M64920,Hamersley
+DEC01847,Sylvania Capricorn,-23.3869,120.1464,16/6/2005,2005,NA,Pseudomys hermannsburgensis,Ph,WAM_M41906,Hamersley
+DEC01848,East Karijini,-22.8666,119.0833,29/4/1997,1997,M,Pseudomys hermannsburgensis,Ph,WAM_M47537,Hamersley
+DEC01849,Ethel Creek Newman 2,-23.3108,119.8225,20/6/1997,1997,NA,Pseudomys hermannsburgensis,Ph,WAM_M47665,Hamersley
+DEC01851,Nth Millstream,-21.1383,117.1158,5/7/1997,1997,M,Pseudomys hermannsburgensis,Ph,WAM_M47717,Chichester
+DEC01853,West Newman 2,-23.3333,119.5667,6/11/1997,1997,NA,Pseudomys hermannsburgensis,Ph,WAM_M48513,Hamersley
+DEC01854,Lake Wilderness,-24.0752,120.3606,11/10/1996,1996,M,Pseudomys hermannsburgensis,Ph,WAM_M44953,Trainor
+DEC01856,Lake Wilderness,-24.0794,120.3375,11/10/1996,1996,F,Pseudomys hermannsburgensis,Ph,WAM_M44960,Trainor
+DEC01857,Lake Wilderness,-24.1113,120.3194,11/10/1996,1996,F,Pseudomys hermannsburgensis,Ph,WAM_M44961,Trainor
+DEC01858,Lake Wilderness,-24.1047,120.325,12/10/1996,1996,F,Pseudomys hermannsburgensis,Ph,WAM_M44968,Trainor
+DEC01863,Roy Hill Newman 1,-22.42,119.9064,6/7/2004,2004,M,Pseudomys hermannsburgensis,Ph,WAM_M55130,Fortescue
+DEC01864,Roy Hill Newman 2,-22.3894,119.7753,5/7/2004,2004,F,Pseudomys hermannsburgensis,Ph,WAM_M55140,Fortescue
+DEC01866,Roy Hill Newman 1,-22.4025,119.8611,9/7/2004,2004,M,Pseudomys hermannsburgensis,Ph,WAM_M56518,Fortescue
+DEC01868,Balfour Downs Newman 5,-22.8322,120.4833,11/7/2004,2004,M,Pseudomys hermannsburgensis,Ph,WAM_M56522,Fortescue
+DEC01870,Balfour Downs Newman 5,-22.8322,120.4833,11/7/2004,2004,M,Pseudomys hermannsburgensis,Ph,WAM_M56524,Fortescue
+DEC01871,Balfour Downs Newman 5,-22.7838,120.5006,11/7/2004,2004,M,Pseudomys hermannsburgensis,Ph,WAM_M56525,Fortescue
+DEC01873,Balfour Downs Newman 5,-22.7541,120.4775,12/7/2004,2004,M,Pseudomys hermannsburgensis,Ph,WAM_M56531,Fortescue
+DEC01875,Balfour Downs Newman 5,-22.7419,120.4731,12/7/2004,2004,F,Pseudomys hermannsburgensis,Ph,WAM_M56535,Fortescue
+DEC01877,Yalleen Fortescue 1,-21.8563,116.3472,16/3/2005,2005,M,Pseudomys hermannsburgensis,Ph,WAM_M56305,Hamersley
+DEC01878,Bungaroo Ck,-21.9413,116.4539,15/3/2005,2005,M,Pseudomys hermannsburgensis,Ph,WAM_M56306,Hamersley
+DEC01880,Bungaroo Ck,-21.9511,116.4653,16/3/2005,2005,M,Pseudomys hermannsburgensis,Ph,WAM_M56310,Hamersley
+DEC01881,Bungaroo Ck,-21.9483,116.4636,20/3/2005,2005,M,Pseudomys hermannsburgensis,Ph,WAM_M56315,Hamersley
+DEC01884,Bonney Downs Nullagine 1,-21.9652,120.1225,3/9/2006,2006,NA,Pseudomys hermannsburgensis,Ph,WAM_M64910,Chichester
+DEC01885,Woodstock 2,-21.593,119.0778,NA,NA,M,Pseudomys hermannsburgensis,Ph,WAM_M29462,Chichester
+DEC01886,Karijini 1,-22.6027,118.4597,3/8/1991,1991,M,Pseudomys hermannsburgensis,Ph,WAM_M36739,Hamersley
+DEC01888,Juna Downs 1,-22.6244,118.6072,2/8/1991,1991,M,Pseudomys hermannsburgensis,Ph,WAM_M36746,Hamersley
+DEC01889,Karijini 1,-22.6,118.5119,30/7/1991,1991,M,Pseudomys hermannsburgensis,Ph,WAM_M36748,Hamersley
+DEC01890,Karijini 1,-22.6005,118.4647,30/7/1991,1991,F,Pseudomys hermannsburgensis,Ph,WAM_M36756,Hamersley
+DEC01891,Maroonah Innawanga,-23.4113,115.8942,13/6/1994,1994,F,Pseudomys hermannsburgensis,Ph,WAM_M41814,Ashburton
+DEC01892,Rocklea 1,-22.4666,117.3,12/4/1994,1994,NA,Pseudomys hermannsburgensis,Ph,WAM_M43175,Hamersley
+DEC01893,Finucane Island,-20.3166,118.5667,16/6/2005,2005,M,Pseudomys hermannsburgensis,Ph,WAM_M43344,Roebourne
+DEC01895,Woodstock 3,-21.6116,118.9556,NA,NA,M,Pseudomys hermannsburgensis,Ph,WAM_M28635,Chichester
+DEC01896,Nifty Mine,-21.6666,121.5833,00/04/1994,1994,M,Pseudomys hermannsburgensis,Ph,WAM_M43170,Mackay
+DEC01899,Downes Island,-20.3083,118.5222,5/8/1994,1994,M,Pseudomys hermannsburgensis,Ph,WAM_M41863,Roebourne
+DEC01900,SE Minnie Springs,-23.0797,115.7903,9/10/1995,1995,M,Pseudomys hermannsburgensis,Ph,WAM_M44927,Ashburton
+DEC01902,Mount Sheila 1,-22.2919,117.2989,5/5/1999,1999,M,Pseudomys hermannsburgensis,Ph,WAM_M47851,Hamersley
+DEC01903,Mt Welcome 1,-20.6711,117.0811,00/10/1998,1998,NA,Pseudomys hermannsburgensis,Ph,WAM_M44137,Chichester
+DEC01904,Mt Welcome 1,-20.6711,117.0811,00/10/1998,1998,NA,Pseudomys hermannsburgensis,Ph,WAM_M44138,Chichester
+DEC01905,Nifty Mine,-21.6975,121.6753,7/5/1997,1997,M,Pseudomys hermannsburgensis,Ph,WAM_M45020,Mackay
+DEC01906,Nifty Mine,-21.6488,121.5583,8/5/1997,1997,M,Pseudomys hermannsburgensis,Ph,WAM_M45022,Mackay
+DEC01907,Nifty Mine,-21.6811,121.6414,14/5/1997,1997,F,Pseudomys hermannsburgensis,Ph,WAM_M45024,Mackay
+DEC01908,Nifty Mine,-21.6816,121.6336,15/5/1997,1997,M,Pseudomys hermannsburgensis,Ph,WAM_M45025,Mackay
+DEC01909,Indee,-20.78,118.64,3/5/2001,2001,M,Pseudomys hermannsburgensis,Ph,WAM_M48891,Chichester
+DEC01910,Wallareenya Marble Bar,-21.01,118.7,3/5/2001,2001,M,Pseudomys hermannsburgensis,Ph,WAM_M48898,Chichester
+DEC01915,Range Well,-21.7722,117.2739,22/9/1999,1999,NA,Pseudomys hermannsburgensis,Ph,WAM_M51362,Fortescue
+DEC01922,Yarrie Marble Bar 1,-20.4411,120.2317,14/2/2004,2004,NA,Pseudomys hermannsburgensis,Ph,WAM_M55248,McLarty
+DEC01923,East Warrawajine,-20.6908,120.8769,25/3/2004,2004,NA,Pseudomys hermannsburgensis,Ph,WAM_M55249,Mackay
+DEC01924,Muccan Marble Bar 1,-20.3875,120.0517,17/2/2004,2004,M,Pseudomys hermannsburgensis,Ph,WAM_M55251,McLarty
+DEC01925,Juna Downs 2,-22.9336,118.8958,2/6/2004,2004,M,Pseudomys hermannsburgensis,Ph,WAM_M55285,Hamersley
+DEC01998,Cane River Conservation Park 1,-22.2652,115.5886,4/5/1999,1999,M,Pseudomys hermannsburgensis,Ph,WAM_M48524,Hamersley
+DEC02000,Cane River Conservation Park 2,-22.1686,115.5722,4/5/1999,1999,F,Pseudomys hermannsburgensis,Ph,WAM_M48533,Hamersley
+DEC02001,Cane River Conservation Park 2,-22.1991,115.5486,4/5/1999,1999,M,Pseudomys hermannsburgensis,Ph,WAM_M48535,Hamersley
+DEC02003,Cane River Conservation Park 3,-22.2588,115.4636,4/5/1999,1999,M,Pseudomys hermannsburgensis,Ph,WAM_M48543,Roebourne
+DEC02004,Marillana Newman 4,-22.62,119.25,30/4/2001,2001,M,Pseudomys hermannsburgensis,Ph,WAM_M48875,Fortescue
+DEC02006,Bonney Downs Nullagine 3,-22.31,119.99,30/4/2001,2001,M,Pseudomys hermannsburgensis,Ph,WAM_M48881,Chichester
+DEC02007,Marillana Newman 2,-22.8369,119.3753,28/11/1999,1999,NA,Pseudomys hermannsburgensis,Ph,WAM_M51421,Hamersley
+DEC02008,Juna Downs 2,-22.9341,118.8875,6/6/2004,2004,NA,Pseudomys hermannsburgensis,Ph,WAM_M55294,Hamersley
+DEC02009,Balfour Downs Newman 6,-22.6252,120.4119,13/7/2004,2004,M,Pseudomys hermannsburgensis,Ph,WAM_M56094,Fortescue
+DEC02010,Marillana Newman 5,-22.5,119.2333,30/4/2001,2001,M,Pseudomys hermannsburgensis,Ph,WAM_M48867,Fortescue
+DEC02013,Ex Nanutarra 1,-21.2888,120.4719,29/5/2000,2000,M,Pseudomys hermannsburgensis,Ph,WAM_M51660,Chichester
+DEC02014,Ex Mt Minnie 1,-21.8833,115.1614,24/6/2000,2000,M,Pseudomys hermannsburgensis,Ph,WAM_M51678,Cape Range
+DEC02016,Ex Mt Minnie 2,-22.1016,115.3072,27/6/2000,2000,M,Pseudomys hermannsburgensis,Ph,WAM_M51689,Cape Range
+DEC02018,Ex Mt Minnie 1,-21.8758,115.1547,28/6/2000,2000,M,Pseudomys hermannsburgensis,Ph,WAM_M51694,Cape Range
+DEC02021,Ex Nanutarra 2,-21.2288,120.4258,29/9/2000,2000,F,Pseudomys hermannsburgensis,Ph,WAM_M51737,Chichester
+DEC02024,De Grey 1,-20.3117,119.0939,15/10/2005,2005,NA,Pseudomys hermannsburgensis,Ph,WAM_M61118,Roebourne
+DEC02025,Karijini 2,-22.6214,118.3147,27/5/2006,2006,M,Pseudomys hermannsburgensis,Ph,WAM_M61695,Hamersley
+DEC02026,East Newman 1,-23.3586,120.4592,20/5/2006,2006,M,Pseudomys hermannsburgensis,Ph,WAM_M61747,Fortescue
+DEC02027,East Newman 2,-23.3917,120.5225,20/5/2006,2006,F,Pseudomys hermannsburgensis,Ph,WAM_M61749,Augustus
+DEC02028,Mt Divide Nullagine,-22.4125,121.0719,12/5/2006,2006,NA,Pseudomys hermannsburgensis,Ph,WAM_M61779,Chichester
+DEC02029,Balfour Downs Newman 1,-22.7006,120.7372,11/5/2006,2006,NA,Pseudomys hermannsburgensis,Ph,WAM_M61783,Chichester
+DEC02030,Mininer Angelo River,-23.3644,117.6253,11/10/2005,2005,F,Pseudomys hermannsburgensis,Ph,WAM_M61786,Ashburton
+DEC02031,Mininer Angelo River,-23.3644,117.6253,11/10/2005,2005,F,Pseudomys hermannsburgensis,Ph,WAM_M61788,Ashburton
+DEC02032,Yalleen Fortescue 2,-21.6728,116.7253,4/10/2005,2005,NA,Pseudomys hermannsburgensis,Ph,WAM_M56625,Chichester
+DEC02034,Sth Milstream 1,-21.7108,116.7658,7/10/2005,2005,NA,Pseudomys hermannsburgensis,Ph,WAM_M56646,Hamersley
+DEC02035,Cane Red Hill 1,-21.9667,115.9761,28/9/2005,2005,NA,Pseudomys hermannsburgensis,Ph,WAM_M56797,Hamersley
+DEC02036,Yarraloola Fortescue 1,-21.6892,115.8431,26/9/2005,2005,M,Pseudomys hermannsburgensis,Ph,WAM_M56812,Hamersley
+DEC02037,Yarraloola Fortescue 2,-21.8983,115.7036,25/9/2005,2005,NA,Pseudomys hermannsburgensis,Ph,WAM_M56824,Hamersley
+DEC02038,Red Hill Peedamulla,-21.9481,115.83,25/9/2005,2005,NA,Pseudomys hermannsburgensis,Ph,WAM_M56825,Hamersley
+DEC02039,Peedamulla 3,-21.7914,115.4642,24/9/2005,2005,NA,Pseudomys hermannsburgensis,Ph,WAM_M56837,Roebourne
+DEC02040,Peedamulla 4,-21.7789,115.3669,24/9/2005,2005,NA,Pseudomys hermannsburgensis,Ph,WAM_M56842,Roebourne
+DEC02041,40 Mile Beach,-20.8446,116.3675,30/9/2004,2004,M,Pseudomys hermannsburgensis,Ph,WAM_M57239,Roebourne
+DEC02042,Roy Hill Newman 3,-22.6907,119.7747,18/10/2004,2004,M,Pseudomys hermannsburgensis,Ph,WAM_M57311,Fortescue
+DEC02043,Hillside Nullagine,-22.0947,119.7535,23/10/2004,2004,F,Pseudomys hermannsburgensis,Ph,WAM_M57331,Chichester
+DEC02044,Mt Stuart Nanutarra,-22.4193,115.8378,17/5/2005,2005,NA,Pseudomys hermannsburgensis,Ph,WAM_M57875,Hamersley
+DEC02045,Sth Milstream 2,-21.6772,116.975,12/5/2005,2005,F,Pseudomys hermannsburgensis,Ph,WAM_M57897,Fortescue
+DEC02046,Karijini 2,-22.6219,118.3511,21/9/2005,2005,NA,Pseudomys hermannsburgensis,Ph,WAM_M60501,Hamersley
+DEC02047,Karijini 2,-22.6219,118.3511,22/9/2005,2005,M,Pseudomys hermannsburgensis,Ph,WAM_M60502,Hamersley
+DEC02048,East Newman 3,-23.3639,120.2953,4/10/2005,2005,M,Pseudomys hermannsburgensis,Ph,WAM_M60544,Fortescue
+DEC02049,Balfour Downs Newman 2,-22.7183,120.6464,11/10/2005,2005,F,Pseudomys hermannsburgensis,Ph,WAM_M60550,Chichester
+DEC02050,Balfour Downs Newman 3,-22.6033,120.7833,13/10/2005,2005,F,Pseudomys hermannsburgensis,Ph,WAM_M60557,Chichester
+DEC02051,East Newman 3,-23.3639,120.2953,20/5/2006,2006,NA,Pseudomys hermannsburgensis,Ph,WAM_M61752,Fortescue
+DEC02055,Mt Divide Nullagine,-22.4125,121.0719,13/5/2006,2006,F,Pseudomys hermannsburgensis,Ph,WAM_M61775,Chichester
+DEC02080,Burrup Peninsula,-20.63,116.78,23/6/2005,2005,F,Pseudomys hermannsburgensis,Ph,WAM_M49172,Roebourne
+DEC02081,Burrup Peninsula,-20.63,116.78,23/6/2005,2005,F,Pseudomys hermannsburgensis,Ph,WAM_M49173,Roebourne
+DEC02082,Mount Sheila 1,-22.3108,117.3,17/11/1998,1998,M,Pseudomys hermannsburgensis,Ph,WAM_M52410,Hamersley
+DEC02083,Mount Sheila 1,-22.2919,117.2833,18/11/1998,1998,M,Pseudomys hermannsburgensis,Ph,WAM_M52411,Hamersley
+DEC02084,Mount Sheila 2,-22.4141,117.355,20/11/1998,1998,F,Pseudomys hermannsburgensis,Ph,WAM_M52425,Hamersley
+DEC02085,Mount Sheila 1,-22.3105,117.3167,22/11/1998,1998,M,Pseudomys hermannsburgensis,Ph,WAM_M52452,Hamersley
+DEC02086,Mount Sheila 2,-22.4188,117.4,22/11/1998,1998,NA,Pseudomys hermannsburgensis,Ph,WAM_M52453,Hamersley
+DEC02087,Morgan River,-20.3541,118.7011,20/9/2005,2005,M,Pseudomys hermannsburgensis,Ph,WAM_M56496,Roebourne
+DEC02088,Mallina Sherlock 1,-20.9198,117.8613,29/4/2005,2005,M,Pseudomys hermannsburgensis,Ph,WAM_M60999,Chichester
+DEC02089,Mundabullangana 1,-20.6074,118.1566,3/5/2005,2005,NA,Pseudomys hermannsburgensis,Ph,WAM_M61009,Roebourne
+DEC02249,Mallina Sherlock 1,-20.8699,117.8588,4/10/2004,2004,M,Pseudomys hermannsburgensis,Ph,WAM_M54293,Chichester
+DEC02250,Mundabullangana 2,-20.4756,117.9954,6/10/2004,2004,F,Pseudomys hermannsburgensis,Ph,WAM_M54297,Roebourne
+DEC02251,Mundabullangana 3,-20.5265,118.0774,6/10/2004,2004,M,Pseudomys hermannsburgensis,Ph,WAM_M54299,Roebourne
+DEC02252,Cane River Conservation Park 2,-22.1886,115.5537,4/10/2004,2004,NA,Pseudomys hermannsburgensis,Ph,WAM_M56859,Hamersley
+DEC02254,Enderby Island,-20.6,116.5,NA,NA,NA,Pseudomys hermannsburgensis,Ph,WAM_M20960,Roebourne
+DEC02255,Juna Downs 2,-22.9166,118.9,19/6/2005,2005,F,Pseudomys hermannsburgensis,Ph,WAM_M47521,Hamersley
+DEC02259,Tom Price 1,-22.8072,117.75,10/11/1997,1997,F,Pseudomys hermannsburgensis,Ph,WAM_M47834,Hamersley
+DEC02260,Tom Price 1,-22.795,117.7908,10/11/1997,1997,M,Pseudomys hermannsburgensis,Ph,WAM_M47835,Hamersley
+DEC02261,Ex Nanutarra 3,-21.2447,120.3225,24/5/2000,2000,M,Pseudomys hermannsburgensis,Ph,WAM_M51609,Chichester
+DEC02263,Marillana Newman 3,-22.7327,119.4086,1/12/1999,1999,F,Pseudomys hermannsburgensis,Ph,WAM_M52206,Fortescue
+DEC02265,Morgan River,-20.3541,118.7011,20/9/2005,2005,M,Pseudomys hermannsburgensis,Ph,WAM_M56497,Roebourne
+DEC02266,Yalleen Fortescue 2,-21.6728,116.7253,1/10/2005,2005,NA,Pseudomys hermannsburgensis,Ph,WAM_M56782,Chichester
+DEC02267,Yarraloola Fortescue 2,-21.9181,115.7233,30/9/2005,2005,NA,Pseudomys hermannsburgensis,Ph,WAM_M56785,Hamersley
+DEC02268,Cane Red Hill 1,-21.9667,115.9761,28/9/2005,2005,NA,Pseudomys hermannsburgensis,Ph,WAM_M56799,Hamersley
+DEC02269,Red Hill Peedamulla,-21.95,115.8875,28/9/2005,2005,NA,Pseudomys hermannsburgensis,Ph,WAM_M56800,Hamersley
+DEC02270,Yarraloola Fortescue 3,-21.7333,115.8081,27/9/2005,2005,NA,Pseudomys hermannsburgensis,Ph,WAM_M56808,Hamersley
+DEC02271,Nanutarra 1,-22.4984,115.5582,3/5/2005,2005,M,Pseudomys hermannsburgensis,Ph,WAM_M57751,Hamersley
+DEC02272,Mt Welcome 2,-20.7364,117.0989,5/10/2004,2004,NA,Pseudomys hermannsburgensis,Ph,WAM_M57259,Chichester
+DEC02273,Coolawanyah Chichester,-21.7141,117.7755,9/10/2004,2004,M,Pseudomys hermannsburgensis,Ph,WAM_M57269,Chichester
+DEC02274,Bonney Downs Nullagine 2,-22.1178,119.8772,17/10/2004,2004,F,Pseudomys hermannsburgensis,Ph,WAM_M57298,Chichester
+DEC02275,Bonney Downs Nullagine 2,-22.1178,119.8772,17/10/2004,2004,F,Pseudomys hermannsburgensis,Ph,WAM_M57299,Chichester
+DEC02276,Hillside Nullagine,-22.0853,119.7035,17/10/2004,2004,NA,Pseudomys hermannsburgensis,Ph,WAM_M57301,Chichester
+DEC02277,Hillside Nullagine,-22.0947,119.7535,18/10/2004,2004,F,Pseudomys hermannsburgensis,Ph,WAM_M57308,Chichester
+DEC02279,Cane River Conservation Park 2,-22.1886,115.5537,4/5/2005,2005,F,Pseudomys hermannsburgensis,Ph,WAM_M57750,Hamersley
+DEC02280,40 Mile Beach,-20.8446,116.3675,22/5/2005,2005,NA,Pseudomys hermannsburgensis,Ph,WAM_M57872,Roebourne
+DEC02281,Mardie 2,-21.0633,116.2335,18/5/2005,2005,NA,Pseudomys hermannsburgensis,Ph,WAM_M57877,Roebourne
+DEC02282,Sth Milstream 2,-21.6772,116.975,13/5/2005,2005,NA,Pseudomys hermannsburgensis,Ph,WAM_M57895,Fortescue
+DEC02283,Karratha,-20.768,116.842,22/5/2005,2005,M,Pseudomys hermannsburgensis,Ph,WAM_M57942,Roebourne
+DEC02284,Tom Price 2,-22.6614,117.8644,28/9/2005,2005,F,Pseudomys hermannsburgensis,Ph,WAM_M60531,Hamersley
+DEC02286,Mallina Sherlock 2,-20.9696,118.0483,29/4/2005,2005,NA,Pseudomys hermannsburgensis,Ph,WAM_M61000,Chichester
+DEC02287,Mundabullangana 1,-20.6074,118.1566,30/4/2005,2005,NA,Pseudomys hermannsburgensis,Ph,WAM_M61006,Roebourne
+DEC02288,Mallina Sherlock 1,-20.9499,117.8499,2/5/2005,2005,NA,Pseudomys hermannsburgensis,Ph,WAM_M61008,Chichester
+DEC02289,Corunna Downs Marble Bar,-21.4077,120.0713,19/5/2005,2005,NA,Pseudomys hermannsburgensis,Ph,WAM_M61032,Chichester
+DEC02290,Muccan Marble Bar 2,-20.3908,119.9086,26/9/2005,2005,M,Pseudomys hermannsburgensis,Ph,WAM_M61043,McLarty
+DEC02291,East Warrawajine,-20.7392,120.8939,3/10/2005,2005,NA,Pseudomys hermannsburgensis,Ph,WAM_M61070,Chichester
+DEC02292,De Grey Strelley,-20.3464,118.8931,16/10/2005,2005,NA,Pseudomys hermannsburgensis,Ph,WAM_M61119,Roebourne
+DEC02293,Karijini 2,-22.6219,118.3511,27/5/2006,2006,M,Pseudomys hermannsburgensis,Ph,WAM_M61697,Hamersley
+DEC02294,Karijini 2,-22.6219,118.3511,27/5/2006,2006,M,Pseudomys hermannsburgensis,Ph,WAM_M61699,Hamersley
+DEC02295,Turee Creek Rocklea 1,-23.2839,118.1017,8/10/2005,2005,M,Pseudomys hermannsburgensis,Ph,WAM_M61791,Hamersley
+DEC02296,Eginbah Marble Bar,-20.8353,119.6717,12/5/2006,2006,M,Pseudomys hermannsburgensis,Ph,WAM_M56932,Chichester
+DEC02298,Nanutarra 2,-22.4523,115.6614,2/5/2005,2005,M,Pseudomys hermannsburgensis,Ph,WAM_M57755,Hamersley
+DEC02299,Uaroo Yannarie,-22.8635,115.5031,1/5/2005,2005,NA,Pseudomys hermannsburgensis,Ph,WAM_M57757,Hamersley
+DEC02300,Nanutarra 1,-22.4984,115.5582,29/4/2005,2005,F,Pseudomys hermannsburgensis,Ph,WAM_M57764,Hamersley
+DEC02301,Yarrie Marble Bar 2,-20.7483,120.2578,21/5/2006,2006,M,Pseudomys hermannsburgensis,Ph,WAM_M60027,Chichester
+DEC02302,Strelley 2,-20.3925,118.9231,26/5/2006,2006,M,Pseudomys hermannsburgensis,Ph,WAM_M60049,Chichester
+DEC02303,De Grey 2,-20.3256,119.2108,27/5/2006,2006,M,Pseudomys hermannsburgensis,Ph,WAM_M60055,Roebourne
+DEC02304,De Grey Strelley,-20.3244,118.9222,27/5/2006,2006,M,Pseudomys hermannsburgensis,Ph,WAM_M60059,Roebourne
+DEC02305,De Grey Strelley,-20.3464,118.8931,27/5/2006,2006,NA,Pseudomys hermannsburgensis,Ph,WAM_M60060,Roebourne
+DEC02306,Peedamulla 5,-21.7792,115.2483,11/5/2006,2006,NA,Pseudomys hermannsburgensis,Ph,WAM_M60568,Cape Range
+DEC02308,Peedamulla 4,-21.7789,115.3669,11/5/2006,2006,NA,Pseudomys hermannsburgensis,Ph,WAM_M60570,Roebourne
+DEC02309,Peedamulla 3,-21.7914,115.4642,11/5/2006,2006,NA,Pseudomys hermannsburgensis,Ph,WAM_M60572,Roebourne
+DEC02310,Red Hill Peedamulla,-21.9481,115.83,16/5/2006,2006,NA,Pseudomys hermannsburgensis,Ph,WAM_M60592,Hamersley
+DEC02311,Wallareenya,-21.0636,118.7608,16/5/2006,2006,M,Pseudomys hermannsburgensis,Ph,WAM_M64680,Chichester
+DEC02312,Mount Sheila 3,-22.5044,117.6494,20/5/2006,2006,M,Pseudomys hermannsburgensis,Ph,WAM_M64688,Hamersley
+DEC02313,Rocklea 2,-22.8347,117.3817,20/5/2006,2006,M,Pseudomys hermannsburgensis,Ph,WAM_M64691,Hamersley
+DEC02314,Rocklea 2,-22.8261,117.3711,20/5/2006,2006,M,Pseudomys hermannsburgensis,Ph,WAM_M64692,Hamersley
+DEC02316,Rocklea 3,-22.8092,117.4775,23/5/2006,2006,M,Pseudomys hermannsburgensis,Ph,WAM_M64731,Hamersley
+DEC02317,Lake Macdonald,-23.3344,117.8758,28/5/2006,2006,M,Pseudomys hermannsburgensis,Ph,WAM_M64760,Hamersley
+DEC02318,East Mininer,-23.4189,117.8419,29/5/2006,2006,M,Pseudomys hermannsburgensis,Ph,WAM_M64775,Hamersley
+DEC02319,Turee Creek Rocklea 1,-23.2925,118.1564,30/5/2006,2006,M,Pseudomys hermannsburgensis,Ph,WAM_M64777,Hamersley
+DEC02320,Turee Creek Rocklea 1,-23.2864,118.1236,31/5/2006,2006,M,Pseudomys hermannsburgensis,Ph,WAM_M64781,Hamersley
+DEC02322,Turee Creek Rocklea 2,-23.3758,117.9897,31/5/2006,2006,M,Pseudomys hermannsburgensis,Ph,WAM_M64786,Hamersley

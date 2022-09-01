@@ -1,0 +1,95 @@
+﻿Chrom_Mouse_v38p4,RefSeq_Accession,Chromosome,Start,Stop,Notes
+NC_000067.6_C57BL/6J_chromosome_1_GRCm38.p3_C57BL/6J,NC_000067.6,1,0,195471971,I'm assuming this is the length of the full chromosome (from start to end)
+NC_000068.7_C57BL/6J_chromosome_2_GRCm38.p3_C57BL/6J,NC_000068.7,2,0,182113224,I'm assuming this is the length of the full chromosome (from start to end)
+NC_000069.6_C57BL/6J_chromosome_3_GRCm38.p3_C57BL/6J,NC_000069.6,3,0,160039680,I'm assuming this is the length of the full chromosome (from start to end)
+NC_000070.6_C57BL/6J_chromosome_4_GRCm38.p3_C57BL/6J,NC_000070.6,4,0,156508116,I'm assuming this is the length of the full chromosome (from start to end)
+NC_000071.6_C57BL/6J_chromosome_5_GRCm38.p3_C57BL/6J,NC_000071.6,5,0,151834684,I'm assuming this is the length of the full chromosome (from start to end)
+NC_000072.6_C57BL/6J_chromosome_6_GRCm38.p3_C57BL/6J,NC_000072.6,6,0,149736546,I'm assuming this is the length of the full chromosome (from start to end)
+NC_000073.6_C57BL/6J_chromosome_7_GRCm38.p3_C57BL/6J,NC_000073.6,7,0,145441459,I'm assuming this is the length of the full chromosome (from start to end)
+NC_000074.6_C57BL/6J_chromosome_8_GRCm38.p3_C57BL/6J,NC_000074.6,8,0,129401213,I'm assuming this is the length of the full chromosome (from start to end)
+NC_000075.6_C57BL/6J_chromosome_9_GRCm38.p3_C57BL/6J,NC_000075.6,9,0,124595110,I'm assuming this is the length of the full chromosome (from start to end)
+NC_000076.6_C57BL/6J_chromosome_10_GRCm38.p3_C57BL/6J,NC_000076.6,10,0,130694993,I'm assuming this is the length of the full chromosome (from start to end)
+NC_000077.6_C57BL/6J_chromosome_11_GRCm38.p3_C57BL/6J,NC_000077.6,11,0,122082543,I'm assuming this is the length of the full chromosome (from start to end)
+NC_000078.6_C57BL/6J_chromosome_12_GRCm38.p3_C57BL/6J,NC_000078.6,12,0,120129022,I'm assuming this is the length of the full chromosome (from start to end)
+NC_000079.6_C57BL/6J_chromosome_13_GRCm38.p3_C57BL/6J,NC_000079.6,13,0,120421639,I'm assuming this is the length of the full chromosome (from start to end)
+NC_000080.6_C57BL/6J_chromosome_14_GRCm38.p3_C57BL/6J,NC_000080.6,14,0,124902244,I'm assuming this is the length of the full chromosome (from start to end)
+NC_000081.6_C57BL/6J_chromosome_15_GRCm38.p3_C57BL/6J,NC_000081.6,15,0,104043685,I'm assuming this is the length of the full chromosome (from start to end)
+NC_000082.6_C57BL/6J_chromosome_16_GRCm38.p3_C57BL/6J,NC_000082.6,16,0,98207768,I'm assuming this is the length of the full chromosome (from start to end)
+NC_000083.6_C57BL/6J_chromosome_17_GRCm38.p3_C57BL/6J,NC_000083.6,17,0,94987271,I'm assuming this is the length of the full chromosome (from start to end)
+NC_000084.6_C57BL/6J_chromosome_18_GRCm38.p3_C57BL/6J,NC_000084.6,18,0,90702639,I'm assuming this is the length of the full chromosome (from start to end)
+NC_000085.6_C57BL/6J_chromosome_19_GRCm38.p3_C57BL/6J,NC_000085.6,19,0,61431566,I'm assuming this is the length of the full chromosome (from start to end)
+NC_000086.7_C57BL/6J_chromosome_X_GRCm38.p3_C57BL/6J,NC_000086.7,X,0,171031299,I'm assuming this is the length of the full chromosome (from start to end)
+NC_000087.7_C57BL/6J_chromosome_Y_GRCm38.p3_C57BL/6J,NC_000087.7,Y,0,91744698,I'm assuming this is the length of the full chromosome (from start to end)
+NT_039192.2_129S6/SvEvTac_chromosome_1_129S6/SvEvTac_129S6/SVEVTAC_MMCHR1_CTG3,NT_039192.2,1,133239136,133489442,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_039195.1_129X1/SvJ_chromosome_1_129X1/SvJ_129X1/SVJ_MMCHR1_CTG2,NT_039195.1,1,173701136,174051183,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_039247.2_NOD/MrkTac_chromosome_3_NOD/MrkTac_MMCHR3_NODMRKTAC_CTG1,NT_039247.2,3,36806723,37563603,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_039252.1_NOD/MrkTac_chromosome_3_NOD/MrkTac_MMCHR3_NOD_IDD3_1,NT_039252.1,3,36806723,37563603,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_039256.1_129S1/SvImJ_chromosome_3_129S1/SvImJ_129S1/SVIMJ_MMCHR3_CTG2,NT_039256.1,3,36806723,37563603,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_039291.1_129S6/SvEvTac_chromosome_4_129S6/SvEvTac_129S6/SVEVTAC_MMCHR4_CTG1,NT_039291.1,4,144179444,144348902,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_039372.2_129X1/SvJ_chromosome_6_129X1/SvJ_129X1/SVJ_MMCHR6_CTG1,NT_039372.2,6,82734575,83039841,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_039382.4_129S1/SvImJ_chromosome_6_129S1/SvImJ_129S1/SVIMJ_MMCHR6_CTG5,NT_039382.4,6,120377222,121015201,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_039469.1_129S6/SvEvTac_chromosome_8_129S6/SvEvTac_129S6/SVEVTAC_MMCHR8_CTG1,NT_039469.1,8,41292834,41482533,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_039470.1_129S6/SvEvTac_chromosome_8_129S6/SvEvTac_129S6/SVEVTAC_MMCHR8_CTG2,NT_039470.1,8,73065642,73319050,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_039593.1_A/J_chromosome_13_A/J_A/J_MMCHR13_CTG1,NT_039593.1,13,100075065,100330017,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_039594.3_129S6/SvEvTac_chromosome_13_129S6/SvEvTac_129S6/SVEVTAC_MMCHR13_CTG1,NT_039594.3,13,106801073,106932896,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_039614.1_129S1/SvImJ_chromosome_14_129S1/SvImJ_129S1/SVIMJ_MMCHR14_CTG3,NT_039614.1,14,52352473,54229076,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_039630.5_129X1/SvJ_chromosome_16_129X1/SvJ_129X1/SVJ_MMCHR16_CTG1,NT_039630.5,16,17742495,19065968,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_039634.4_129S6/SvEvTac_chromosome_16_129S6/SvEvTac_129S6/SVEVTAC_MMCHR16_CTG6,NT_039634.4,16,94114272,95747459,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_039697.1_129P2/OlaHsd_chromosome_19_129P2/OlaHsd_129P2/OLAHSD_MMCHR19_CTG1,NT_039697.1,19,5679043,5707799,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_039739.2_129S6/SvEvTac_chromosome_X_129S6/SvEvTac_129S6/SVEVTAC_MMCHRX_CTG2,NT_039739.2,X,42891057,43298842,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_078651.1_chromosome_10_UNKNOWN_UNKNOWN_MMCHR10_CTG3,NT_078651.1,10,10861646,10927384,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_080256.1_NOD/MrkTac_NOD/MrkTac_MMCHRUN_NODMRKTAC_CTG1,NT_080256.1,Unknown,0,0,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_080257.1_129S1/SvImJ_chromosome_3_129S1/SvImJ_129S1/SVIMJ_MMCHR3_CTG4,NT_080257.1,3,93583858,93685263,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_096797.1_129X1/SvJ_chromosome_14_129X1/SvJ_129X1/SVJ_MMCHR14_CTG1,NT_096797.1,14,51863012,51973562,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_097336.1_chromosome_17_UNKNOWN_UNKNOWN_MMCHR17_CTG3,NT_097336.1,17,12729292,12861171,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_109318.2_chromosome_4_UNKNOWN_UNKNOWN_MMCHR4_CTG7,NT_109318.2,4,140721097,140961448,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_111920.1_129S1/SvImJ_chromosome_X_129S1/SvImJ_129S1/SVIMJ_MMCHRX_CTG10,NT_111920.1,X,103589284,103841870,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_114257.4_NOD/MrkTac_chromosome_3_NOD/MrkTac_MMCHR3_NOD_IDD18_1,NT_114257.4,3,109116720,109807685,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_114985.3_129S1/SvImJ_chromosome_12_129S1/SvImJ_129S1/SVIMJ_MMCHR12_CTG1,NT_114985.3,12,113067904,114458697,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_165789.2_C57BL/6J_chromosome_X_MMCHRX_RANDOM_CTG2,NT_165789.2,X,0,171031299,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_166287.2_NOD/MrkTac_chromosome_3_NOD/MrkTac_MMCHR3_NOD_IDD18_2,NT_166287.2,3,103590378,104055839,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_166293.1_129S7/SvEvBrd-Hprt-b-m2_chromosome_4_129S7/SvEvBrd-Hprt-b-m2_129S7/SVEVBRD-HPRT-B-M2_MMCHR4_CTG2,NT_166293.1,4,61778759,62041201,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_166299.2_NOD/MrkTac_chromosome_4_NOD/MrkTac_MMCHR4_NOD_IDD9_2,NT_166299.2,4,146068508,151320022,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_166305.2_NOD/ShiLtJ_chromosome_6_NOD/ShiLtJ_MMCHR6_CHORI29_IDD6_1+2,NT_166305.2,6,143536594,149568188,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_166317.2_NOD/MrkTac_chromosome_11_NOD/MrkTac_MMCHR11_NOD_IDD4_2,NT_166317.2,11,72908911,74370562,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_187001.1_129S7/SvEvBrd-Hprt-b-m2_chromosome_15_129S7/SvEvBrd-Hprt-b-m2_129S7/SVEVBRD-HPRT-B-M2_MMCHR15_CTG1,NT_187001.1,15,79892564,79986558,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_187003.1_NOD/ShiLtJ_chromosome_11_NOD/ShiLtJ_MMCHR11_CHORI29_IDD4_2Q,NT_187003.1,11,86869779,89954755,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_187004.1_NOD/ShiLtJ_chromosome_17_NOD/ShiLtJ_MMCHR17_CHO_IDD1,NT_187004.1,17,33681276,38548659,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_187005.1_NOD/ShiLtJ_chromosome_17_NOD/ShiLtJ_MMCHR17_CHORI29_IDD16_1,NT_187005.1,17,27313323,29215977,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_187007.1_129S1/SvImJ_chromosome_16_129S1/SvImJ_129S1/SVIMJ_MMCHR16_CTG1,NT_187007.1,16,17742495,19065968,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_187008.1_129S1/SvImJ_chromosome_16_129S1/SvImJ_129S1/SVIMJ_MMCHR16_CTG2,NT_187008.1,16,17742495,19065968,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_187012.1_129S6/SvEvTac_chromosome_16_129S6/SvEvTac_129S6/SVEVTAC_MMCHR16_CTG1,NT_187012.1,16,17742495,19065968,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_187014.1_129S6/SvEvTac_chromosome_16_129S6/SvEvTac_129S6/SVEVTAC_MMCHR16_CTG3,NT_187014.1,16,17742495,19065968,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_187015.1_129S6/SvEvTac_chromosome_16_129S6/SvEvTac_129S6/SVEVTAC_MMCHR16_CTG4,NT_187015.1,16,95846204,96221063,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_187016.1_129S6/SvEvTac_chromosome_16_129S6/SvEvTac_129S6/SVEVTAC_MMCHR16_CTG5,NT_187016.1,16,97054368,97223607,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_187019.1_NOD/MrkTac_chromosome_1_NOD/MrkTac_MMCHR1_NOD_IDD5_1,NT_187019.1,1,60640809,63588262,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_187020.1_NOD/MrkTac_chromosome_1_NOD/MrkTac_MMCHR1_NOD_IDD5_3,NT_187020.1,1,65597865,69265254,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_187022.1_NOD/MrkTac_chromosome_3_NOD/MrkTac_MMCHR3_NOD_IDD10_1,NT_187022.1,3,99953865,101307585,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_187023.1_NOD/MrkTac_chromosome_4_NOD/MrkTac_MMCHR4_NOD_IDD9_1,NT_187023.1,4,128397119,131686709,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_187024.1_NOD/MrkTac_chromosome_4_NOD/MrkTac_MMCHR4_NOD_IDD9_1M,NT_187024.1,4,135021547,135237421,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_187025.1_NOD/MrkTac_chromosome_4_NOD/MrkTac_MMCHR4_NOD_IDD9_3,NT_187025.1,4,146068508,151320022,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_187026.1_NOD/MrkTac_chromosome_11_NOD/MrkTac_MMCHR11_NOD_IDD4_1,NT_187026.1,11,69895472,71336724,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_187027.1_NOD/MrkTac_chromosome_17_NOD/MrkTac_MMCHR17_NOD_IDD1,NT_187027.1,17,33681276,38548659,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_187028.1_CAST/Ei_chromosome_11_CAST/Ei_CAST/EI_MMCHR11_CTG1,NT_187028.1,11,48799134,49141362,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_187029.1_CAST/Ei_chromosome_11_CAST/Ei_CAST/EI_MMCHR11_CTG3,NT_187029.1,11,58115562,58302084,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_187054.1_C57BL/6J_chromosome_4_MMCHR4UN_CTG5,NT_187054.1,4,0,156508116,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_187064.1_C57BL/6J_MSCHRUN_CTG23,NT_187064.1,Unknown,0,0,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NW_004058050.1_C57BL/6J_chromosome_4_MG4136_PATCH,NW_004058050.1,4,143214657,143582942,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NW_004058052.1_C57BL/6J_chromosome_7_MG4151_PATCH,NW_004058052.1,7,3000001,3475222,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NW_004058054.1_C57BL/6J_chromosome_19_MG153_PATCH,NW_004058054.1,19,4013986,4260737,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NW_004450260.1_C57BL/6J_chromosome_11_MG3829_PATCH,NW_004450260.1,11,86869779,89954755,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NW_004450261.1_C57BL/6J_chromosome_12_MG4180_PATCH,NW_004450261.1,12,109373903,109689534,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NW_004450263.1_C57BL/6J_chromosome_17_MG4222_MG3908_PATCH,NW_004450263.1,17,54687402,55747384,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NW_012132906.1_C57BL/6J_chromosome_9_MG117_PATCH,NW_012132906.1,9,108784955,108953239,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NW_012132907.1_C57BL/6J_chromosome_10_MG4264_PATCH,NW_012132907.1,10,58205866,58311233,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NW_012132908.1_C57BL/6J_chromosome_15_MG4259_PATCH,NW_012132908.1,15,3050001,3186530,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NW_012132909.1_C57BL/6J_chromosome_15_MG4261_PATCH,NW_012132909.1,15,0,104043685,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NW_012132910.1_C57BL/6J_chromosome_19_MG4249_PATCH,NW_012132910.1,19,6183084,6688105,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NW_012132911.1_C57BL/6J_chromosome_X_MG3231_PATCH,NW_012132911.1,X,60271962,60763715,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NW_004450259.3_C57BL/6J_chromosome_9_MG132_PATCH,NW_004450259.3,9,124268539,124479149,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_039373.1_129S1/SvImJ_chromosome_6_129S1/SvImJ_129S1/SVIMJ_MMCHR6_CTG1,NT_039373.1,6,50779502,50919227,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NW_004450262.1_C57BL/6J_chromosome_16_MG3833_PATCH,NW_004450262.1,16,0,0,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_039525.1_129X1/SvJ_chromosome_11_129X1/SvJ_129X1/SVJ_MMCHR11_CTG3,NT_039525.1,11,104203258,104362532,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_039662.3_129X1/SvJ_chromosome_17_129X1/SvJ_129X1/SVJ_MMCHR17_CTG2,NT_039662.3,17,33681276,38548659,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_187030.1_CAST/Ei_chromosome_18_CAST/Ei_CAST/EI_MMCHR18_CTG1,NT_187030.1,18,60125920,60496981,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
+NT_114988.1_129S1/SvImJ_chromosome_12_129S1/SvImJ_129S1/SVIMJ_MMCHR12_CTG3,NT_114988.1,12,103722705,103922810,I think these are alternates from other strains? I'm assuming they fall within the main contigs above
