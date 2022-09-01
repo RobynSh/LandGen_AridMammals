@@ -15,6 +15,7 @@ The remaining sub folder contains data used throughout the different analyses, a
 * **Rasters_Shapefiles:** This folder contains rasters and shapefiles covering the Pilbara region of Western Australia. All rasters in this folder have been aggregated to a 5 km resolution. For details on spatial layers, see the Supplementary Information for this manuscript.
 
 
+
 &nbsp;
 
 ***
