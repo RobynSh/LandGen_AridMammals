@@ -1,11 +1,13 @@
 ### **Complete data and R code for manuscript: SNPs provide increased resolution for landscape genetic analysis of arid-zone mammals with high dispersal capacity (Article DOI: 10.1002/ece3.10037)**
 
-This repository contains R code, data and outputs for all analyses presented in the manuscript. The analyses are split into the following folders to reflect the main sections/subheadings in the manuscript (presented in order of analysis - note that outputs generated are sometimes used as inputs in the next step/s, so the order of analysis matters):
+This repository contains R code, data and outputs for analyses presented in the manuscript. The analyses are split into the following folders to reflect the main sections/subheadings in the manuscript (presented in order of analysis - note that outputs generated are sometimes used as inputs in the next step/s, so the order of analysis matters):
 * **SNP_Filtering:**
   - *DArTSNPFilt.R*
   - *SampleCleaning.R*
+  - *Note: the raw SNP data (as provided by DArT) can be found in the data subfolder in this section*
 * **IBB:**
   - *IBB.R*
+  - *Note: the microsatellite data can be found in the data subfolder in this section*
 * **IBR:**
   - *IBR.R*
 
