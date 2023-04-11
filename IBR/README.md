@@ -24,15 +24,15 @@ This code generates the following files (output to the *IBR_outputs* folder):
  - *Ph.MSAT.TopModel_Clay*
  - *Ph.SNP.TopModel_VRM*
  
- The following outputs can be found within each of the best-performing model subfolders:
-      - *[Specific layer name/s here]_commuteDistance_distMat.csv* - Pairwise distance matrix with commute distances (i.e. distance between points calculated using the optimised resistance surface)
-      - *[Specific layer name/s here]_DiagnosticPlots.tif* - Diagnostic plots for MLPE model
-      - *[Specific layer name/s here]_full.rds* - R data
-      - *[Specific layer name/s here].asc* - Optimised resistance surface
-      - *[Specific layer name/s here].rds* - R data
-      - *MLPE_coeff_Table.csv* - MLPE model summary based on optimised resistance surface
-      - *Multisurface_Optim_Summary.txt* - Parameters and details for optimisation
-      - *Percent_Contribution.csv* - Percent each layer contributes to the final optimised resistance surface
+The following outputs can be found within each of the best-performing model subfolders:
+- *[Specific layer name/s here]_commuteDistance_distMat.csv* - Pairwise distance matrix with commute distances (i.e. distance between points calculated using the optimised resistance surface)
+- *[Specific layer name/s here]_DiagnosticPlots.tif* - Diagnostic plots for MLPE model
+- *[Specific layer name/s here]_full.rds* - R data
+- *[Specific layer name/s here].asc* - Optimised resistance surface
+- *[Specific layer name/s here].rds* - R data
+- *MLPE_coeff_Table.csv* - MLPE model summary based on optimised resistance surface
+- *Multisurface_Optim_Summary.txt* - Parameters and details for optimisation
+- *Percent_Contribution.csv* - Percent each layer contributes to the final optimised resistance surface
 
 
 &nbsp;
