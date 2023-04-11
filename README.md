@@ -13,9 +13,9 @@ This repository contains R code, data and outputs for analyses presented in the 
 * **IBR:**
   - *IBR.R*
 
-There are README files in each of the analysis sub-folders listed above, which describe the analysis, the data (inputs) and the resulting output files. 
+There are README files in each of the analysis subfolders listed above, which describe the analysis, the data (inputs) and the resulting output files. 
 
-The remaining sub folder contains data used throughout the different analyses, as described below:
+The remaining subfolder contains data used throughout the different analyses, as described below:
 * **Rasters_Shapefiles:** This folder contains rasters and shapefiles covering the Pilbara region of Western Australia. All rasters in this folder have been aggregated to a 5 km resolution. For details on spatial layers, see the Supplementary Information for this manuscript.
 
 
